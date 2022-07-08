@@ -1,0 +1,4 @@
+{
+    "debug.javascript.unmapMissingSources": true,
+    "git.enabled": true
+}
